@@ -4,6 +4,8 @@
 The main goal of this study is to demonstrate the approach of achieving drone dynamic and static collision avoidance in an indoor environment using deep neural networks. The system will consist of a swarm of drones, a camera mounted above them, and static obstacles. Images from the camera are segmented into three groups: drones, obstacles, and floor. For the task of semantic
 segmentation, manual annotation is needed for our small custom dataset, which we use for training several neural networks. Computer vision algorithms process the segmented image and return the coordinates of the obstacle relative to the drone. Then we train the RL NN on the coordinates of the drones and static collisions and get the possible safe actions of the drones in real-time. We evaluate deep learning models trained on both synthetic and real data and present a new dataset that comprises both.
 
+[!gif](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/ezgif.com-gif-maker.gif)
+
 The code was written by:
 
 - Mariia Makarova - U-net model implementation
@@ -29,8 +31,8 @@ The code was written by:
 ## How to launch the code?
 To help users better understand and use our code, for each model we created instructions for running the code and reproducing the results:
 
--  instruction for running the code and reproducing the results: [Image Segmentation Instruction](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/semantic-segmentation-with-unet/README.md)
+-  instruction for running the code and reproducing the results of Image Segmentation: [Image Segmentation Instruction](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/semantic-segmentation-with-unet/README.md)
 
--  instruction for running the code and reproducing the results: [RL based Path Planning Instruction 1](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/README_RL.md) | [RL based Path Planning Instruction 2] (https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/README_vis.md)
+-  instruction for running the code and reproducing the results of RL Based PP: [RL based Path Planning Instruction 1](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/README_RL.md) | [RL based Path Planning Instruction 2](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/README_vis.md)
 
 
