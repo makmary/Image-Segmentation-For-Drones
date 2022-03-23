@@ -31,6 +31,6 @@ To help users better understand and use our code, for each model we created inst
 
 -  instruction for running the code and reproducing the results: [Image Segmentation Instruction](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/semantic-segmentation-with-unet/README.md)
 
--  instruction for running the code and reproducing the results: [RL based Path Planning Instruction](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/README.md)
+-  instruction for running the code and reproducing the results: [RL based Path Planning Instruction 1](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/README_RL.md) | [RL based Path Planning Instruction 2] (https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/README_vis.md)
 
 
