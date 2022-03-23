@@ -24,6 +24,7 @@ The code was written by:
 - Python 3
 - Segmentation model
 - Tensorflow 2.8.0, Keras 2.8.0
+- OpenCV, Tifffile
 
 ## Datasets info
 - Our custom dataset:  [dataset for drones](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/tree/main/semantic-segmentation-with-unet/data)
