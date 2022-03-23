@@ -15,7 +15,7 @@ The code was written by:
 
 
 ## Notebooks
-
+- Semantic Image Segmentation: [notebook](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/semantic-segmentation-with-unet/FinalProject.ipynb) 
 
 ## Prerequisites
 - Python 3
@@ -24,7 +24,6 @@ The code was written by:
 
 ## Datasets info
 - Our custom dataset:  [dataset for drones](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/tree/main/semantic-segmentation-with-unet/data)
-
 
 ## How to launch the code?
 To help users better understand and use our code, for each model we created instructions for running the code and reproducing the results:
