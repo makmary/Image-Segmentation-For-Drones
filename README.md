@@ -16,8 +16,8 @@ The code was written by:
 
 ## Notebooks
 - Semantic Image Segmentation: [notebook](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/semantic-segmentation-with-unet/FinalProject.ipynb) 
-- RL Based Collision Avoidance: [notebook](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/Training-for-RL.ipynb)
-- Environment Visualization (testing in simulated environment): [notebook](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/Environment_visualisation.ipynb)
+- RL Based Collision Avoidance: [notebook](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/Training-for-RL.ipynb) | [README](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/README_RL.md)
+- Environment Visualization (testing in simulated environment): [notebook](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/Environment_visualisation.ipynb) | [README](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/README_vis.md)
 ## Prerequisites
 - Python 3
 - Segmentation model
