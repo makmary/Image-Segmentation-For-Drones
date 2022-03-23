@@ -5,8 +5,6 @@ The main goal of this study is to demonstrate the approach of achieving drone dy
 segmentation, manual annotation is needed for our small custom dataset, which we use for training several neural networks. Computer vision algorithms process the segmented image and return the coordinates of the obstacle relative to the drone. Then we train the RL NN on the coordinates of the drones and static collisions and get the possible safe actions of the drones in real-time. We evaluate deep learning models trained on both synthetic and real data and present a new dataset that comprises both.
 
 
-![Alt text](nhttps://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/ezgif.com-gif-maker.gif) / ![](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/ezgif.com-gif-maker.gif)
-
 The code was written by:
 
 - Mariia Makarova - U-net model implementation
