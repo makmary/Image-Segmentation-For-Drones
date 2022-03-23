@@ -16,7 +16,8 @@ The code was written by:
 - Ahmed Baza - Drone Simulation
 - Ekaterina Dorzhieva - RL based Path Planning
 
-
+<br />
+<br /> 
 
 
 **Drone collision avoidance in indoor environment: [Project](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment) | [Report]() | [Presentation]() | [Video](https://drive.google.com/drive/folders/1iRLgcNHrFjxwGGnlAggEWa8eK2ZidKMn?usp=sharing)**
