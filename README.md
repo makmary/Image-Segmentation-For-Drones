@@ -16,6 +16,7 @@ The code was written by:
 
 ## Notebooks
 - Semantic Image Segmentation: [notebook](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/semantic-segmentation-with-unet/FinalProject.ipynb) 
+- RL Based Collision Avoidance: [notebook](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/README.md)
 
 ## Prerequisites
 - Python 3
@@ -30,6 +31,6 @@ To help users better understand and use our code, for each model we created inst
 
 -  instruction for running the code and reproducing the results: [Image Segmentation Instruction](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/semantic-segmentation-with-unet/README.md)
 
--  instruction for running the code and reproducing the results: [RL based Path Planning Instruction]()
+-  instruction for running the code and reproducing the results: [RL based Path Planning Instruction](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/foraging-v0-master/README.md)
 
 
