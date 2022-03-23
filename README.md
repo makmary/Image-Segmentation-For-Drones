@@ -13,7 +13,7 @@ The code was written by:
 - Ahmed Baza - Drone Simulation
 - Ekaterina Dorzhieva - RL based Path Planning
 
-**Drone collision avoidance in indoor environment: [Project](https://github.com/Ekaterinador/ML\_final) | [Report]() | [Presentation]() | [Video])**
+**Drone collision avoidance in indoor environment: [Project](https://github.com/Ekaterinador/ML\_final) | [Report]() | [Presentation]() | [Video]()**
 
 
 ## Notebooks
@@ -25,7 +25,7 @@ The code was written by:
 - Tensorflow 2.8.0, Keras 2.8.0
 
 ## Datasets info
-- Our custom dataset:  [dataset for drones]()
+- Our custom dataset:  [dataset for drones](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/tree/main/semantic-segmentation-with-unet/data)
 
 
 ## How to launch the code?
