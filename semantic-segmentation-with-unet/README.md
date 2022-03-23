@@ -18,5 +18,7 @@ segmentation, manual annotation is needed for our small custom dataset, which we
 ## How to launch the code?
 
 - Firstly, you should prepare environment and install all required packages and libraries for this project.
-- You should choose which model you would like to choose. You can choose between simpel U-net with categorical crossentropy, U-net with focal-loss, and U-net with ResNet34 as a backbone.
 
+- You should choose which model you would like to use. You can choose between simpel U-net with categorical crossentropy, U-net with focal-loss, and U-net with ResNet34 as a backbone.
+
+- Then, it is important to prepare training and testing dataset for our model, train model and check final results.
