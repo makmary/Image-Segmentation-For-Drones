@@ -16,6 +16,8 @@ The code was written by:
 - Ahmed Baza - Drone Simulation
 - Ekaterina Dorzhieva - RL based Path Planning
 
+<br /> 
+<br /> 
 <br />
 <br /> 
 
