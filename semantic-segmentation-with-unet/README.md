@@ -8,8 +8,8 @@ segmentation, manual annotation is needed for our small custom dataset, which we
 
 
 ## Prerequisites
-- Python 3, Pandas, Numpy
-- Patchify, Imagecodecs, Matplotlib, Tifffile, 
+- Python 3, Pandas, Numpy, Random
+- Patchify, Imagecodecs, Matplotlib, Tifffile, PIL
 - Segmentation models, OpenCV, 
 - Tensorflow 2.8.0, Keras 2.8.0, Scipy
 
