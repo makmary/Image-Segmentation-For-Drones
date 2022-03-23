@@ -29,8 +29,8 @@ The code was written by:
 ## How to launch the code?
 To help users better understand and use our code, for each model we created instructions for running the code and reproducing the results:
 
--  instruction for running the code and reproducing the results: [Instruction1]()
+-  instruction for running the code and reproducing the results: [Image Segmentation Instruction](https://github.com/makmary/Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/blob/main/semantic-segmentation-with-unet/README.md)
 
--  instruction for running the code and reproducing the results: [Instruction2]()
+-  instruction for running the code and reproducing the results: [RL based Path Planning Instruction]()
 
 
