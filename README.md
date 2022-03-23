@@ -8,7 +8,7 @@ segmentation, manual annotation is needed for our small custom dataset, which we
 
 The code was written by:
 
-- Mariia Makarova - U-net model implementation
+- Mariia Makarova - Semantic Image Segmentation
 - Ayush Gupta - Semantic Image Segmentation
 - Ahmed Baza - Drone Simulation
 - Ekaterina Dorzhieva - RL based Path Planning
