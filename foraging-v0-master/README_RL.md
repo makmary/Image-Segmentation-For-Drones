@@ -19,6 +19,10 @@ pip instal stl
 pip install -U scikit-learn
 pip install pycopy-copy
 ```
+To install the package, cd to the root directory of the package (Skoltech-ML-2022-Drone-Collision-Avoidance-In-Indoor-Environment/foraging-v0-master) and run:
+``` sh 
+pip install -e .
+```
 
 ## Running instructions: 
 - Run the notebook (ML_final_act_crt.ipynb) for training 
